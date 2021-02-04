@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 10354cec7eb39164d8df2dd6cb4f42e4
+timeCreated: 1476915162
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orb_0
+    21300002: orb_1
+    21300004: orb_2
+    21300006: orb_3
+    21300008: orb_4
+    21300010: orb_5
+    21300012: orb_6
+    21300014: orb_7
+    21300016: orb_8
+    21300018: orb_9
+    21300020: orb_10
+    21300022: orb_11
+    21300024: orb_12
+    21300026: orb_13
+    21300028: orb_14
+    21300030: orb_15
+    21300032: orb_16
+    21300034: orb_17
+    21300036: orb_18
+    21300038: orb_19
+    21300040: orb_20
+    21300042: orb_21
+    21300044: orb_22
+    21300046: orb_23
+    21300048: orb_24
+    21300050: orb_25
+    21300052: orb_26
+    21300054: orb_27
+    21300056: orb_28
+    21300058: orb_29
+    21300060: orb_30
+    21300062: orb_31
+    21300064: orb_32
+    21300066: orb_33
+    21300068: orb_34
+    21300070: orb_35
+    21300072: orb_36
+    21300074: orb_37
+    21300076: orb_38
+    21300078: orb_39
+    21300080: orb_40
+    21300082: orb_41
+    21300084: orb_42
+    21300086: orb_43
+    21300088: orb_44
+    21300090: orb_45
+    21300092: orb_46
+    21300094: orb_47
+    21300096: orb_48
+    21300098: orb_49
+    21300100: orb_50
+    21300102: orb_51
+    21300104: orb_52
+    21300106: orb_53
+    21300108: orb_54
+    21300110: orb_55
+    21300112: orb_56
+    21300114: orb_57
+    21300116: orb_58
+    21300118: orb_59
+    21300120: orb_60
+    21300122: orb_61
+    21300124: orb_62
+    21300126: orb_63
+    21300128: orb_64
+    21300130: orb_65
+    21300132: orb_66
+    21300134: orb_67
+    21300136: orb_68
+    21300138: orb_69
+    21300140: orb_70
+    21300142: orb_71
+    21300144: orb_72
+    21300146: orb_73
+    21300148: orb_74
+    21300150: orb_75
+    21300152: orb_76
+    21300154: orb_77
+    21300156: orb_78
+    21300158: orb_79
+    21300160: orb_80
+    21300162: orb_81
+    21300164: orb_82
+    21300166: orb_83
+    21300168: orb_84
+    21300170: orb_85
+    21300172: orb_86
+    21300174: orb_87
+    21300176: orb_88
+    21300178: orb_89
+    21300180: orb_90
+    21300182: orb_91
+    21300184: orb_92
+    21300186: orb_93
+    21300188: orb_94
+    21300190: orb_95
+    21300192: orb_96
+    21300194: orb_97
+    21300196: orb_98
+    21300198: orb_99
+    21300200: orb_100
+    21300202: orb_101
+    21300204: orb_102
+    21300206: orb_103
+    21300208: orb_104
+    21300210: orb_105
+    21300212: orb_106
+    21300214: orb_107
+    21300216: orb_108
+    21300218: orb_109
+    21300220: orb_110
+    21300222: orb_111
+    21300224: orb_112
+    21300226: orb_113
+    21300228: orb_114
+    21300230: orb_115
+    21300232: orb_116
+    21300234: orb_117
+    21300236: orb_118
+    21300238: orb_119
+    21300240: orb_120
+    21300242: orb_121
+    21300244: orb_122
+    21300246: orb_123
+    21300248: orb_124
+    21300250: orb_125
+    21300252: orb_126
+    21300254: orb_127
+    21300256: orb_128
+    21300258: orb_129
+    21300260: orb_130
+    21300262: orb_131
+    21300264: orb_132
+    21300266: orb_133
+    21300268: orb_134
+    21300270: orb_135
+    21300272: orb_136
+    21300274: orb_137
+    21300276: orb_138
+    21300278: orb_139
+    21300280: orb_140
+    21300282: orb_141
+    21300284: orb_142
+    21300286: orb_143
+    21300288: orb_144
+    21300290: orb_145
+    21300292: orb_146
+    21300294: orb_147
+    21300296: orb_148
+    21300298: orb_149
+    21300300: orb_150
+    21300302: orb_151
+    21300304: orb_152
+    21300306: orb_153
+    21300308: orb_154
+    21300310: orb_155
+    21300312: orb_156
+    21300314: orb_157
+    21300316: orb_158
+    21300318: orb_159
+    21300320: orb_160
+    21300322: orb_161
+    21300324: orb_162
+    21300326: orb_163
+    21300328: orb_164
+    21300330: orb_165
+    21300332: orb_166
+    21300334: orb_167
+    21300336: orb_168
+    21300338: orb_169
+    21300340: orb_170
+    21300342: orb_171
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orb_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: orb_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 375
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: d2b84aa60714ad643b4d0f34221e5453
+timeCreated: 1480396130
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maple_tile_pyramid_0
+    21300002: maple_tile_pyramid_1
+    21300004: maple_tile_pyramid_2
+    21300006: maple_tile_pyramid_3
+    21300008: maple_tile_pyramid_4
+    21300010: maple_tile_pyramid_5
+    21300012: maple_tile_pyramid_6
+    21300014: maple_tile_pyramid_7
+    21300016: maple_tile_pyramid_8
+    21300018: maple_tile_pyramid_9
+    21300020: maple_tile_pyramid_10
+    21300022: maple_tile_pyramid_20
+    21300024: maple_tile_pyramid_21
+    21300026: maple_tile_pyramid_22
+    21300028: maple_tile_pyramid_23
+    21300030: maple_tile_pyramid_24
+    21300032: maple_tile_pyramid_25
+    21300034: maple_tile_pyramid_26
+    21300036: maple_tile_pyramid_27
+    21300038: maple_tile_pyramid_28
+    21300040: maple_tile_pyramid_29
+    21300042: maple_tile_pyramid_30
+    21300044: maple_tile_pyramid_31
+    21300046: maple_tile_pyramid_32
+    21300048: maple_tile_pyramid_33
+    21300050: maple_tile_pyramid_34
+    21300052: maple_tile_pyramid_35
+    21300054: maple_tile_pyramid_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maple_tile_pyramid_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 281
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 281
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 281
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 281
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 281
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 243
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 242
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 229
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 229
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 229
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 229
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 173
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 173
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 160
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 160
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_25
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 160
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 160
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 90
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 116
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_29
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 116
+        width: 90
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 118
+        width: 90
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 9
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 9
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 9
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maple_tile_pyramid_36
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 9
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

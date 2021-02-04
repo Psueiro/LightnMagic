@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 7842b1f7fe9bff64fb96c8868afec941
+timeCreated: 1476724515
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skeleton_stab1
+    21300002: skeleton_stab2
+    21300004: skeleton_stab3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skeleton_stab1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 41}
+        - {x: -19.5, y: 35}
+        - {x: -19.5, y: 4}
+        - {x: -18.5, y: 0}
+        - {x: 18.5, y: 0}
+        - {x: 19.5, y: 2}
+        - {x: 19.5, y: 32}
+        - {x: 17.5, y: 41}
+    - name: skeleton_stab2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 42
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 34}
+        - {x: 5, y: 31}
+        - {x: 5, y: 36}
+        - {x: 4, y: 39}
+        - {x: 1, y: 41}
+        - {x: -17, y: 41}
+        - {x: -21, y: 36}
+        - {x: -21, y: 0}
+        - {x: 12, y: 0}
+        - {x: 21, y: 10}
+        - {x: 21, y: 32}
+        - {x: 16, y: 35}
+    - name: skeleton_stab3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 58
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8079702, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.862274, y: 41}
+        - {x: -46.862274, y: 24}
+        - {x: -46.862274, y: 10}
+        - {x: -24.862274, y: 0}
+        - {x: 11.137726, y: 0}
+        - {x: 11.137726, y: 39}
+        - {x: 7.137726, y: 41}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 6516b7f57db089e4ca7de50cabfb3e0a
+timeCreated: 1480523704
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JamirFire_0
+    21300002: JamirFire_1
+    21300004: JamirFire_2
+    21300006: JamirFire_3
+    21300008: JamirFire_4
+    21300010: JamirFire_5
+    21300012: JamirFire_6
+    21300014: JamirFire_7
+    21300016: JamirFire_8
+    21300018: JamirFire_9
+    21300020: JamirFire_10
+    21300022: JamirFire_11
+    21300024: JamirFire_12
+    21300026: JamirFire_13
+    21300028: JamirFire_14
+    21300030: JamirFire_15
+    21300032: JamirFire_16
+    21300034: JamirFire_17
+    21300036: JamirFire_18
+    21300038: JamirFire_19
+    21300040: JamirFire_20
+    21300042: JamirFire_21
+    21300044: JamirFire_22
+    21300046: JamirFire_23
+    21300048: JamirFire_24
+    21300050: JamirFire_25
+    21300052: JamirFire_26
+    21300054: JamirFire_27
+    21300056: JamirFire_28
+    21300058: JamirFire_29
+    21300060: JamirFire_30
+    21300062: JamirFire_34
+    21300064: JamirFire_31
+    21300066: JamirFire_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JamirFire_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 317
+        width: 112
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 317
+        width: 112
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 318
+        width: 115
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 322
+        width: 116
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 320
+        width: 121
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_5
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 318
+        width: 108
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_6
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 320
+        width: 112
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_7
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 325
+        width: 114
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_8
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 324
+        width: 107
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 322
+        width: 106
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_10
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 318
+        width: 107
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 125
+        height: 236
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 120
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 16
+        width: 108
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 117
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 11
+        width: 120
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 15
+        width: 129
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_17
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 13
+        width: 126
+        height: 244
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_18
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 19
+        width: 123
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_19
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 22
+        width: 114
+        height: 235
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_20
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 116
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_21
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 113
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_22
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 108
+        height: 257
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_23
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2
+        width: 107
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_24
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 8
+        width: 106
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_25
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 15
+        width: 103
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_26
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 21
+        width: 93
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_27
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 28
+        width: 93
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_28
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 39
+        width: 98
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_29
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 43
+        width: 85
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_30
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 45
+        width: 83
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_34
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 130
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_31
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 53
+        width: 72
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JamirFire_32
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 59
+        width: 45
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

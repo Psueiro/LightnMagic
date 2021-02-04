@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: a772b39efd7a97245bf9a815056bb574
+timeCreated: 1474172069
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lightning_0
+    21300002: Lightning_1
+    21300004: Lightning_2
+    21300006: Lightning_3
+    21300008: Lightning_4
+    21300010: Lightning_5
+    21300012: Lightning_6
+    21300014: Lightning_7
+    21300016: Lightning_8
+    21300018: Lightning_9
+    21300020: Lightning_10
+    21300022: Lightning_11
+    21300024: Lightning_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lightning_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 47
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 11
+        width: 53
+        height: 252
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 10
+        width: 43
+        height: 252
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 180
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 44
+        height: 253
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 10
+        width: 51
+        height: 251
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 9
+        width: 49
+        height: 252
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 8
+        width: 50
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 9
+        width: 50
+        height: 255
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 8
+        width: 51
+        height: 255
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_10
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 8
+        width: 49
+        height: 256
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 10
+        width: 49
+        height: 253
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lightning_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 8
+        width: 52
+        height: 254
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
